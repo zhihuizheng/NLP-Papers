@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "d923d993f538a340",
+    "type": "split",
+    "children": [
+      {
+        "id": "6673aacfe8ddff52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58aa09f07ad5860a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2018 (OpenAI) [GPT-2] Language Models are Unsupervised Multitask Learners.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adbd9b396aa8e2d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b8a9b75e3354bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f57478790027264",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76a42ab1e266ce52",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cceb002da441f35b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 288.5
+  },
+  "right": {
+    "id": "eebd5f41996b5151",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bf365c66efea650",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c9ab191dfbdb14e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2018 (OpenAI) [GPT-2] Language Models are Unsupervised Multitask Learners.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2436769c75a17ab7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2018 (OpenAI) [GPT-2] Language Models are Unsupervised Multitask Learners.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cdc2d26a46c4503",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca9ec6a6fcde544d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2018 (OpenAI) [GPT-2] Language Models are Unsupervised Multitask Learners.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "7c9ab191dfbdb14e",
+  "lastOpenFiles": [
+    "2018 (OpenAI) [GPT-2] Language Models are Unsupervised Multitask Learners.pdf"
+  ]
+}
